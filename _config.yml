@@ -16,7 +16,7 @@
 title: my first website
 email: jamcdougle@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  al;dskgja/lkgjadsl;gkjasl;gjk.abcd
+  al;dskgja/lkgjadsl;gkjasl;gjk.abcde
 baseurl: "/simple-site" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
